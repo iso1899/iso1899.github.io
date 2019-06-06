@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iso1899.github.io/</id>
     <title>pinocchio</title>
-    <updated>2019-06-06T11:20:57.334Z</updated>
+    <updated>2019-06-06T14:52:29.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://iso1899.github.io/"/>
     <link rel="self" href="https://iso1899.github.io//atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://iso1899.github.io//images/avatar.png</logo>
     <icon>https://iso1899.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, pinocchio</rights>
+    <entry>
+        <title type="html"><![CDATA[《老路用得上的商学课》第一章：机会成本  学习笔记]]></title>
+        <id>https://iso1899.github.io//post/lesslesslao-lu-yong-de-shang-de-shang-xue-ke-greatergreater-di-yi-zhang-ji-hui-cheng-ben-xue-xi-bi-ji</id>
+        <link href="https://iso1899.github.io//post/lesslesslao-lu-yong-de-shang-de-shang-xue-ke-greatergreater-di-yi-zhang-ji-hui-cheng-ben-xue-xi-bi-ji">
+        </link>
+        <updated>2019-06-06T14:50:00.000Z</updated>
+        <content type="html"><![CDATA[<p>在经济学里，这些不得不放弃的东西，就是我们为当前选择所付出的机会成本。例如：鱼与熊掌不可兼得。放弃掉的鱼就是你选择熊掌的代价（机会成本）。</p>
+<p>1.所有的选择，都有机会成本。</p>
+<p>2.机会成本，是当前选择最大的那个代价。（取最大值）</p>
+<p>3.机会成本，是你必然可选的选项。（可选的，而非天马行空）</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://iso1899.github.io//post/hello-gridea</id>
